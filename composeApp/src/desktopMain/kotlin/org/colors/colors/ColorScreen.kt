@@ -201,7 +201,7 @@ private fun Picker(
 
 @Composable
 private fun QrGitHub(colorBackground: Color) {
-    val qr = rememberQrKitPainter(data = " ")
+    val qr = rememberQrKitPainter(data = "https://github.com/christopher-two/AdivinaColorRgb.git")
     Box(
         modifier = Modifier.fillMaxSize(),
         contentAlignment = Alignment.BottomEnd
