@@ -3,7 +3,7 @@
 ![Icono de la aplicación](Designer.jpeg)
 
 ## Descarga:
-[Descarga drive](https://drive.google.com/file/d/1NR6697b0ciAmQkwsxlMG99_IAFcnnPVT/view?usp=drive_link)
+[Descarga drive](https://drive.google.com/file/d/1s-wpo0m1yQT18gdxzD_kTtU1IA3_hryG/view?usp=sharing)
 
 ## Descripción
 
