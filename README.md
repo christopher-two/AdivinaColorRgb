@@ -2,6 +2,9 @@
 
 ![Icono de la aplicación](Designer.jpeg)
 
+## Descarga:
+[Descarga drive](https://drive.google.com/file/d/1NR6697b0ciAmQkwsxlMG99_IAFcnnPVT/view?usp=drive_link)
+
 ## Descripción
 
 **Adivina Color Rgb** es un mini juego desarrollado con **Compose Multiplatform** que reta al usuario a
