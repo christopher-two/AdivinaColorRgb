@@ -1,10 +1,10 @@
-# Color Guessing Game
+# Adivina Color Rgb
 
 ![Icono de la aplicación](Designer.jpeg)
 
 ## Descripción
 
-**Color Guessing Game** es un mini juego desarrollado con Jetpack Compose que reta al usuario a
+**Adivina Color Rgb** es un mini juego desarrollado con Jetpack Compose que reta al usuario a
 adivinar un color aleatorio mediante la modificación de sus valores RGB. La aplicación genera un
 color objetivo aleatorio, el usuario intenta reproducirlo ajustando tres campos de entrada para cada
 componente RGB, y luego se le indica qué tan cerca estuvo de acertar, mostrando un porcentaje de
@@ -31,8 +31,8 @@ nombrarla, por ejemplo, `screenshot.png`.
 ## Tecnologías utilizadas
 
 - **Kotlin**
-- **Jetpack Compose** (o Compose Multiplatform, según el entorno)
-- **StateFlow** para la gestión de estado
+- **Compose Multiplatform**
+- **Desktop**
 
 ## Instalación y ejecución
 
