@@ -26,7 +26,7 @@ coincidencia.
 
 ## Captura de pantalla
 
-![Captura de pantalla de la aplicación](img.png)
+[[Captura de pantalla de la aplicación](img.png)](https://www.youtube.com/shorts/kklX28G9BRU)
 
 ## Tecnologías utilizadas
 
